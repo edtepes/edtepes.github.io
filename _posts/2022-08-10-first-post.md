@@ -1,5 +1,5 @@
 ---
-title: Hello Ed new change same me
+title: First Post Test
 categories: [Ed Tepes]
 tags: [Ed]     # TAG names should always be lowercase
 ---
@@ -8,7 +8,7 @@ tags: [Ed]     # TAG names should always be lowercase
 
 Hello there and welcome to my Ed Tepes docs site!
 
-Here are some code snippet examples in Javascript and YAML
+Here are some code snippet examples in Javascript and YAML to test Markdown Abilities
 
 ```javascript
 console.log('hello world!');
